@@ -1,2 +1,2 @@
 # helloworld
-first public hello
+hello of Java
